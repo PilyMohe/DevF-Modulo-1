@@ -1,0 +1,19 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background: lightgray;
+}
+h1{
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color: darkblue;
+}
+navbar{
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color: blue;
+}
